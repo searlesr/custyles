@@ -3,9 +3,9 @@
   <info>
     <title>Cranfield University Aerospace Style</title>
     <id>http://csl.mendeley.com/styles/454899671/Emma2</id>
-    <link href="http://www.zotero.org/styles/harvard-cite-them-right" rel="self"/>
+    <link href="https://github.com/searlesr/custyles/blob/master/" rel="self"/>
     <link href="http://www.zotero.org/styles/harvard-university-of-greenwich" rel="template"/>
-    <link href="http://www.uel.ac.uk/lls/support/harvard/" rel="documentation"/>
+    <link href="http://www.som.cranfield.ac.uk/som/dinamic-content/media/mirc/Referencing/AuthorDateReferencingGuide2014.pdf" rel="documentation"/>
     <author>
       <name>Sebastian Karcher</name>
     </author>
